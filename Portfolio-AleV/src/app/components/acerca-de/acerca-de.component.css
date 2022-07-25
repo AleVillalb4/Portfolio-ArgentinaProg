@@ -8,11 +8,11 @@ div{
 @media (min-width:576px){
     #fotoperfil{
         position: absolute;
-        width: 15%;
+        width: 13%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px rgb(22, 22, 105);
-        left: 2%;
-        top: 650px;
+        left: 3%;
+        top: 625px;
     }
 }
 @media (max-width:576px){
